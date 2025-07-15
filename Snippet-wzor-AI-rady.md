@@ -1,3 +1,15 @@
+
+Podsumowanie – kluczowe profesjonalne praktyki
+Projektuj API zgodnie ze standardami REST i OpenAPI.
+Automatyzuj generowanie SDK i snippetów na podstawie specyfikacji.
+Dbaj o bezpieczeństwo, testy, dokumentację i automatyzację wdrożeń.
+Zadbaj o wygodę deweloperów: przykłady, playground, gotowe SDK, generator kodu.
+Myśl o skalowalności i przyszłym rozwoju (wersjonowanie, modularność).
+Chcesz, żebym przygotował szablon projektu (np. strukturę katalogów, pliki startowe) lub gotowy kod dla wybranej części? Jeśli tak – napisz, którą część chcesz zobaczyć jako pierwszą!
+
+
+
+
 Profesjonalny System API dla Kancelarii Prawniczych
 1. Architektura i Planowanie
 1.1 Domain-Driven Design (DDD)
